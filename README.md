@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working at **Nomis Solutions**
 
-- 🌱 I’m currently learning **K8 and GoLang**
+- 🌱 I’m currently learning **K8S and GoLang**
 
 - 🤝 I’m looking for a new role in **DevOps Engineer**
 
-- 💬 Ask me about **Terraform, Kubernetes,K8, Cloudformation, ECS, CI/CD, AWS, Jenkins, Python, Docker, Bash etc..**
+- 💬 Ask me about **Terraform, Kubernetes, K8S, Cloudformation, ECS, CI/CD, AWS, Jenkins, Python, Docker, Bash etc..**
 
 - 📫 How to reach me **arshadsyed16@gmail.com**
 
