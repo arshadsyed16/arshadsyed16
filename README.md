@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **arshadsyed16@gmail.com**
 
-- ⚡ Fun fact **I am lazy which makes me automate most of the things so I can avoid work :D**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/arshadsyed16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arshadsyed16" height="30" width="40" /></a>
